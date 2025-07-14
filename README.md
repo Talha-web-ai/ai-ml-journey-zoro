@@ -1,7 +1,7 @@
 
-# ⚔️ Zoro's AI/ML Engineer Journey – 60 Days to Glory
+# ⚔️ LUFFY's AI/ML Engineer Journey – 60 Days to Glory
 
-## 👤 Name: Talha Khan (aka Zoro)
+## 👤 Name: Talha Khan (aka Luffy)
 ## 🎯 Mission: Become a Top AI/ML Engineer at a Top MNC (15+ LPA)
 
 Welcome to my public AI/ML journey!  
